@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>10611433985-9pb5ko96daepq4f7adk6mfqca92i6e7i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.10611433985-9pb5ko96daepq4f7adk6mfqca92i6e7i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3YsWYx3__UwV_X1vcYT2VnZJ2s1F-DVk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>10611433985</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.leandro.Lista-de-Tarefas-SDM</string>
+	<key>PROJECT_ID</key>
+	<string>sdm-bd-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sdm-bd-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:10611433985:ios:9f7744e950343fafee1600</string>
+	<key>DATABASE_URL</key>
+	<string>https://sdm-bd-ios.firebaseio.com</string>
+</dict>
+</plist>
